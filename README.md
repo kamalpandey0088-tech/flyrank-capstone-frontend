@@ -1,1 +1,1 @@
-# flyrank-capstone-frontend
+# flyrank-capstone-frontendAn interactive front-end application built for the Flyrank AI Engineering Track.
